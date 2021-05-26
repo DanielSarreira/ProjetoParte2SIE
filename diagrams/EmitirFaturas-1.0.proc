@@ -3,7 +3,7 @@
   <process:MainProcess xmi:id="_NO3JoL4dEeuvb7Lhzfu9Zg" name="EmitirFaturas" author="danis" bonitaVersion="7.12.1" bonitaModelVersion="7.12.0-004">
     <elements xmi:type="process:Pool" xmi:id="_NO3Job4dEeuvb7Lhzfu9Zg" name="Emitir Faturas">
       <elements xmi:type="process:Lane" xmi:id="_NO3Jor4dEeuvb7Lhzfu9Zg" name="Administração e finanças" actor="_NO3Ju74dEeuvb7Lhzfu9Zg">
-        <elements xmi:type="process:StartEvent" xmi:id="_NO3Jo74dEeuvb7Lhzfu9Zg" name="Iniciar processamento das faturas" outgoing="_NO3JuL4dEeuvb7Lhzfu9Zg">
+        <elements xmi:type="process:StartEvent" xmi:id="_NO3Jo74dEeuvb7Lhzfu9Zg" name="Iniciar processamento de faturas" outgoing="_NO3JuL4dEeuvb7Lhzfu9Zg">
           <dynamicLabel xmi:type="expression:Expression" xmi:id="_NO3JpL4dEeuvb7Lhzfu9Zg" name="" content="" returnTypeFixed="true"/>
           <dynamicDescription xmi:type="expression:Expression" xmi:id="_NO3Jpb4dEeuvb7Lhzfu9Zg" name="" content="" returnTypeFixed="true"/>
           <stepSummary xmi:type="expression:Expression" xmi:id="_NO3Jpr4dEeuvb7Lhzfu9Zg" name="" content="" returnTypeFixed="true"/>
